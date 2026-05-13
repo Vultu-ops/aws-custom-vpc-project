@@ -39,20 +39,6 @@ This project demonstrates the creation of a custom Virtual Private Cloud (VPC) o
 6. Launched EC2 instances
 7. Installed and configured NGINX
 8. Verified private subnet internet access using NAT Gateway
-
----
-
-## Screenshots
-
-Add screenshots here:
-
-* VPC Dashboard
-* Subnets
-* Route Tables
-* NAT Gateway
-* EC2 Instances
-* NGINX Output
-
 ---
 
 ## Commands Used
